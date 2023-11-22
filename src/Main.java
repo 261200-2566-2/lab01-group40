@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Arrays;
 
-    public class Main {
+public class Main {
     public static void Sortout(int[] ar,int n) {
         Arrays.sort(ar);
         System.out.println("Sorted result:");
